@@ -16,16 +16,15 @@
   },
   "commandDisabled": [],
   "eventDisabled": [],
-  "BOTNAME": "Bot",
-  "PREFIX": "?",
+  "BOTNAME": "Yuri",
+  "PREFIX": "!",
   "ADMINBOT": [
-    "YOUR_FB_UID",
-    "OTHER_FB_UID"
+    "100092668630167"
   ],
   "DESIGN": {
     "Title": "BotPack",
-    "Theme": "Blue",
-    "Admin": "YOUR_NAME",
+    "Theme": "Rainbow",
+    "Admin": "jerome",
     "Setup": {
       "Info": "Design your own custom terminal Titlebar for the title and must contain no numbers",
       "Theme": "Customize your console effortlessly with various theme colors. Explore Aqua, Fiery, Blue, Orange, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, Purple, Rainbow, and Hacker themes to enhance your terminal logs."
